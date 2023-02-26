@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Bakery</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <h1>My Bakery</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#menu">Menu</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <main>
+      <section id="about">
+        <h2>About My Bakery</h2>
+        <p>Welcome to My Bakery, where we make delicious cakes, pastries, and breads. We use only the freshest ingredients and traditional baking methods to create a taste experience you won't forget.</p>
+      </section>
+      <section id="menu">
+        <h2>Menu</h2>
+        <ul>
+          <li>Cakes: Chocolate, Vanilla, Red Velvet</li>
+          <li>Pastries: Croissants, Danish, Eclairs</li>
+          <li>Breads: Sourdough, Whole Wheat, Rye</li>
+        </ul>
+      </section>
+      <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Phone: 555-555-5555</p>
+        <p>Email: info@mybakery.com</p>
+        <p>Address: 123 Main St, Anytown USA</p>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright My Bakery</p>
+    </footer>
+  </body>
+</html>
